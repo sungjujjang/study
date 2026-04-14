@@ -3,7 +3,7 @@
 박스 사이징을 지정하지 않을 경우
 - 콘텐츠 영역의 크기만 지정
 
-box-sizing: border-box 일 경우
+`box-sizing: border-box` 일 경우
 - 박스 영역 크기가 지정됨
 - 콘텐츠 영역의 크기를 빼서 계산
 ```
