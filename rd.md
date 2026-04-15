@@ -22,3 +22,5 @@
 - 심화과정 **깔끔한 코드**, **네트워크**, **데브옵스**
 - 프론트 개념 시작
 - 스프링 시큐리티 끝내기
+
+https://pokabook.notion.site/DevOps-ab8fb93fac1c4d85965b19e438d9f87a
