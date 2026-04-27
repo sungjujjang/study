@@ -36,6 +36,5 @@
 ## 5월 5주차
 - AWS IAM 공부하기
 - Terraform 사용법 기초 공부하기
-- 
 
 https://pokabook.notion.site/DevOps-ab8fb93fac1c4d85965b19e438d9f87a
