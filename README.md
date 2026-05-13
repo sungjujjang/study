@@ -66,3 +66,6 @@
     - 여러 Ops 종류 도입해보기
 
 주차 기준은 우분투 달력 줄 기준 월요일~일요일까지
+
+## 살세 계획표
+https://www.notion.so/35a295cd5d4a807cb30cde1551451f7f?source=copy_link
