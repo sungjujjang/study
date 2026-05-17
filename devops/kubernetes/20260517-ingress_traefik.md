@@ -7,7 +7,6 @@
 - **IgressRoute** 라는 CRD를 활용해 인그레스 설정(CRD : deployment, service 같은 Kind인데 사용자 지정)
 - 기본 설정으로 인증서가 있긴 함
 ```
-요청 - LB - IngressRouter - ClusterIP SVC - pod1
-					  - pod2
+요청 - LB - IngressRouter - ClusterIP SVC - <pod1, pod2, pod3>(부하분산 됨)
 ```
 
