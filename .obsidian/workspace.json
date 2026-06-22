@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "20260526-역할기반-접근제어-RBAC"
             }
+          },
+          {
+            "id": "ca141e46264c0d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/20260622-다익스트라.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260622-다익스트라"
+            }
+          },
+          {
+            "id": "8e335c541f83c45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/20260622-플로이드-워셜-알고리즘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260622-플로이드-워셜-알고리즘"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +212,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "8468c154a9527919",
+  "active": "ca141e46264c0d93",
   "lastOpenFiles": [
+    "algorithm/20260622-그리디-알고리즘.md",
+    "algorithm/20260622-스택.md",
+    "algorithm/20260622-플로이드-워셜-알고리즘.md",
+    "algorithm/Pasted image 20260622165759.png",
+    "algorithm/20260622-다익스트라.md",
+    "devops/kubernetes/20260526-역할기반-접근제어-RBAC.md",
+    "algorithm",
     "devops/kubernetes/20260525-프로메테우스.md",
     "devops/kubernetes/20260517-secret.md",
     "devops/kubernetes/20260515-K8S_개발환경_구축.md",
     "devops/kubernetes/20260517-스토리지_OpenEBS.md",
     "devops/network/20260614-OSI-7계층.md",
     "devops/network/L2_L3.png",
-    "devops/kubernetes/20260526-역할기반-접근제어-RBAC.md",
     "devops/kubernetes/20260519-harbor.md",
     "devops/kubernetes/20260428-Helm.md",
     "lang/java/20260413-메소드와 생성자.md",
