@@ -1,5 +1,5 @@
 # EC2 - Associate
-= Private vs Public IP
+- Private vs Public IP
     - private
       - 내부망의 아이피
       - NAT + 인터넷 게이트웨이 통해 외부망과 소통함
