@@ -2,19 +2,20 @@
 
 ## AWS Snow Family
 
-네트워크 대신 물리적 장치를 활용해 데이터 전송
-ㄴ 인터넷 X 엣지 컴퓨팅 수행
+네트워크 대신 물리적 장치를 활용해 데이터 전송 / 인터넷 X 엣지 컴퓨팅 수행
 하는 디바이스 모음
-
+```
 베어메탈 → HDD (물리) → AWS에 배송 → S3
-☆ 마이그레이션을 수월하게 해 줌
+```
+**마이그레이션을 수월하게 해 줌**
 
 OR
 
-Snowball 기기 자체에서 Edge Computing 수행 가능
+**Snowball 기기 자체에서 Edge Computing 수행 가능**
+```
 Cam → Snowball → 영상 분석 → AWS
 　ㄴ 인터넷 연결 X　　　　　　ㄴ 인터넷 O
-
+```
 * Snowball Edge
 
   Storage + CPU + Network 결합체
