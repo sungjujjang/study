@@ -66,3 +66,6 @@ Kafka와 비슷하지만 AWS 서비스 중심
 RabbitMQ / ActiveMQ를 위한 AWS 관리형 서비스
 
 Multi-AZ를 지원 복구 기능
+
+![1](./images/20260814-1.jpg)
+![1](./images/20260814-2.jpg)
