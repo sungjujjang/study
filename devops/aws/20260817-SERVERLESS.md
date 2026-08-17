@@ -62,4 +62,4 @@
 * Swagger(OpenAPI) 지원
 
 ![1](./images/20260817-1.jpg)
-![1](./images/20260817-2.jpg)
+![2](./images/20260817-2.jpg)
