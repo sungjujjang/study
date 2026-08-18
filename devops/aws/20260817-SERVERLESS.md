@@ -63,3 +63,33 @@
 
 ![1](./images/20260817-1.jpg)
 ![2](./images/20260817-2.jpg)
+# Serverless Architectures
+
+## MSA (Micro Service Architectures)
+
+각 Micro Service를 독립적인 설계가 가능하다.
+
+```text
+                    ┌─ Service A
+API Gateway ────────┼─ Service B
+                    └─ Service C
+```
+
+## 다중 AZ에 걸친 LB
+
+```text
+                         ASG
+                  ┌─────────────────┐
+                  │  ┌───────────┐  │
+                  │  │    MS     │──┼── AZ1
+                  │  └───────────┘  │
+                  │  ┌───────────┐  │
+Client ──→ ELB ────┤  │    MS     │──┼── AZ2
+                  │  └───────────┘  │
+                  │  ┌───────────┐  │
+                  │  │    MS     │──┼── AZ3
+                  │  └───────────┘  │
+                  └─────────────────┘
+```
+
+![1](./images/20260818-1.jpg)
